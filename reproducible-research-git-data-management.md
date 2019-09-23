@@ -1,6 +1,6 @@
 ---
-title: ~~Reproducible Research~~ **Nerd Camp**
-author: Mark Agerton
+title: ~~NERD CAMP~~ **Nerd Camp**
+author: Ashley
 date: 2019 September 23
 bibliography: ReproducibleResearch.bib
 csl: chicago-author-date.csl
